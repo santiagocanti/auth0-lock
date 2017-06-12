@@ -1,1 +1,1 @@
-# auth0-lock
+## Sample app to test lock configuration
